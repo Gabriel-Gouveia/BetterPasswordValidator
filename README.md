@@ -36,7 +36,7 @@ IsValid("AbTp9!fok") // true
 
 Abrir a solução no Visual Studio e executar o projeto ao clicar no botão de executar deveria ser o suficiente para compilar e executar o projeto. <br>
 Além disso, é esperado que o Swagger seja aberto no seu navegador principal. <br>
-Com o Swagger aberto, clique na única rota "api/Password" e então clique no botão "Try it out". <br>
+Com o Swagger aberto, clique na única rota "api/v1/Password" e então clique no botão "Try it out". <br>
 Depois disso, digite qualquer senha no campo textbox e clique no botão "Execute". <br>
 
 ---
@@ -150,7 +150,7 @@ IsValid("AbTp9!fok") // true
 
 Opening the solution on Visual Studio and running the project by clicking on the "run" button should be enough to build and run the project. <br>
 Moreover, it is expected that Swagger opens on your main browser. <br>
-With Swagger open, click on the single route "api/Password" and then click on "Try it out". <br>
+With Swagger open, click on the single route "api/v1/Password" and then click on "Try it out". <br>
 Afterwards, type any password on the textbox field and click on "Execute" button. <br>
 
 ---
